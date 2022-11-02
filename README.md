@@ -2,7 +2,7 @@
 抓取臺灣Covid-19疫情狀況資料 (Python)
 
 ### 如何導入  
-建立Package資料夾
+建立Package資料夾，放入covid.py
 ```py
 sys.path.append("Package/")
 ```
